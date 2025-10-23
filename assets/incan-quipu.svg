@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 480 480' role='img' aria-labelledby='title'>
+  <title id='title'>Incan Quipu</title>
+  <defs>
+    <linearGradient id='shadow' x1='0' y1='0' x2='0' y2='1'>
+      <stop offset='0%' stop-color='#000000' stop-opacity='0.08' />
+      <stop offset='100%' stop-color='#000000' stop-opacity='0.18' />
+    </linearGradient>
+  </defs>
+  <rect x='24' y='36' width='432' height='408' rx='42' fill='url(#shadow)' opacity='0.3' />
+  <rect x='16' y='16' width='448' height='408' rx='48' fill='#e0f2fe' />
+  <text x='50%' y='48%' text-anchor='middle' font-size='180' dominant-baseline='middle'>🧵</text>
+  <text x='50%' y='320.0' text-anchor='middle' font-size='48' fill='#0369a1' font-family="'Segoe UI','Helvetica Neue',sans-serif" font-weight='600'><tspan x='50%' dy='0' xml:space='preserve'>Incan Quipu</tspan></text>
+</svg>
