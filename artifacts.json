@@ -1,302 +1,122 @@
 [
   {
     "name": "Roman Coin",
-    "emoji": "\ud83e\ude99",
-    "backgroundColor": "#fdf2d0",
-    "accentColor": "#946c2f",
-    "options": [
-      "Roman Coin",
-      "Egyptian Amulet",
-      "Greek Vase",
-      "Mayan Mask"
-    ],
-    "fact": "Roman coins often show the faces of emperors and help archaeologists date ancient settlements.",
-    "image": "https://source.unsplash.com/featured/500x500/?roman%20coin&sig=1",
-    "credit": "Image via Unsplash (keyword: Roman Coin)"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Denarius_of_Caesar_Augustus_%28obverse%29.jpg",
+    "options": ["Roman Coin", "Egyptian Amulet", "Greek Vase", "Mayan Mask"],
+    "fact": "Roman coins often show the faces of emperors and help archaeologists date ancient settlements."
   },
   {
     "name": "Egyptian Amulet",
-    "emoji": "\ud83d\udd37",
-    "backgroundColor": "#fce7f3",
-    "accentColor": "#a01e5c",
-    "options": [
-      "Aztec Figurine",
-      "Egyptian Amulet",
-      "Roman Helmet",
-      "Chinese Coin"
-    ],
-    "fact": "Amulets from ancient Egypt were worn for protection and were buried with mummies for good luck in the afterlife.",
-    "image": "https://source.unsplash.com/featured/500x500/?egyptian%20amulet&sig=2",
-    "credit": "Image via Unsplash (keyword: Egyptian Amulet)"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Amulet_-_Egypt_-_Louvre_-_E13158.jpg",
+    "options": ["Aztec Figurine", "Egyptian Amulet", "Roman Helmet", "Chinese Coin"],
+    "fact": "Amulets from ancient Egypt were worn for protection and were buried with mummies for good luck in the afterlife."
   },
   {
     "name": "Greek Vase",
-    "emoji": "\ud83c\udffa",
-    "backgroundColor": "#fdeed8",
-    "accentColor": "#a6531c",
-    "options": [
-      "Greek Vase",
-      "Roman Lamp",
-      "Incan Pottery",
-      "Persian Bowl"
-    ],
-    "fact": "Painted Greek vases tell stories from mythology and show how ancient Greeks lived and worked.",
-    "image": "https://source.unsplash.com/featured/500x500/?greek%20vase&sig=3",
-    "credit": "Image via Unsplash (keyword: Greek Vase)"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Amphora_PAN_III.jpg",
+    "options": ["Greek Vase", "Roman Lamp", "Incan Pottery", "Persian Bowl"],
+    "fact": "Painted Greek vases tell stories from mythology and show how ancient Greeks lived and worked."
   },
   {
     "name": "Mayan Mask",
-    "emoji": "\ud83c\udfad",
-    "backgroundColor": "#d1fae5",
-    "accentColor": "#047857",
-    "options": [
-      "Mayan Mask",
-      "Celtic Torc",
-      "Samurai Helmet",
-      "Benin Bronze Plaque"
-    ],
-    "fact": "Mayan masks were used in ceremonies to honor gods, celebrate kings, and represent animals or ancestors.",
-    "image": "https://source.unsplash.com/featured/500x500/?mayan%20mask&sig=4",
-    "credit": "Image via Unsplash (keyword: Mayan Mask)"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Mask%2C_Mayan_culture.jpg",
+    "options": ["Mayan Mask", "Celtic Torc", "Samurai Helmet", "Benin Bronze Plaque"],
+    "fact": "Mayan masks were used in ceremonies to honor gods, celebrate kings, and represent animals or ancestors."
   },
   {
     "name": "Incan Quipu",
-    "emoji": "\ud83e\uddf5",
-    "backgroundColor": "#e0f2fe",
-    "accentColor": "#0369a1",
-    "options": [
-      "Incan Quipu",
-      "Stone Age Hand Axe",
-      "Viking Shield",
-      "Aztec Calendar Stone"
-    ],
-    "fact": "A quipu is made of knotted cords that Incan record keepers used to track numbers like taxes and harvests.",
-    "image": "https://source.unsplash.com/featured/500x500/?incan%20quipu&sig=5",
-    "credit": "Image via Unsplash (keyword: Incan Quipu)"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/1/15/Quipu.jpg",
+    "options": ["Incan Quipu", "Stone Age Hand Axe", "Viking Shield", "Aztec Calendar Stone"],
+    "fact": "A quipu is made of knotted cords that Incan record keepers used to track numbers like taxes and harvests."
   },
   {
     "name": "Mesopotamian Tablet",
-    "emoji": "\ud83d\udcdc",
-    "backgroundColor": "#ede9fe",
-    "accentColor": "#5b21b6",
-    "options": [
-      "Mesopotamian Tablet",
-      "Indus Valley Seal",
-      "Roman Coin",
-      "Chinese Scroll"
-    ],
-    "fact": "Clay tablets with cuneiform writing from Mesopotamia hold some of the oldest written stories and laws.",
-    "image": "https://source.unsplash.com/featured/500x500/?mesopotamian%20tablet&sig=6",
-    "credit": "Image via Unsplash (keyword: Mesopotamian Tablet)"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Sumerian_cuneiform_tablet.jpg",
+    "options": ["Mesopotamian Tablet", "Indus Valley Seal", "Roman Coin", "Chinese Scroll"],
+    "fact": "Clay tablets with cuneiform writing from Mesopotamia hold some of the oldest written stories and laws."
   },
   {
     "name": "Viking Brooch",
-    "emoji": "\ud83c\udf00",
-    "backgroundColor": "#fee2e2",
-    "accentColor": "#b91c1c",
-    "options": [
-      "Viking Brooch",
-      "Phoenician Glass Bead",
-      "Egyptian Necklace",
-      "Medieval Crown"
-    ],
-    "fact": "Viking brooches fastened heavy cloaks and were decorated with patterns showing Norse art styles.",
-    "image": "https://source.unsplash.com/featured/500x500/?viking%20brooch&sig=7",
-    "credit": "Image via Unsplash (keyword: Viking Brooch)"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Terslev_brooch.jpg",
+    "options": ["Viking Brooch", "Phoenician Glass Bead", "Egyptian Necklace", "Medieval Crown"],
+    "fact": "Viking brooches fastened heavy cloaks and were decorated with patterns showing Norse art styles."
   },
   {
     "name": "Terracotta Warrior",
-    "emoji": "\ud83d\uddff",
-    "backgroundColor": "#e0f7fa",
-    "accentColor": "#0f766e",
-    "options": [
-      "Terracotta Warrior",
-      "Samurai Armor",
-      "Roman Legionary",
-      "Greek Hoplite"
-    ],
-    "fact": "Thousands of life-sized terracotta warriors were buried with China's first emperor to guard him in the afterlife.",
-    "image": "https://source.unsplash.com/featured/500x500/?terracotta%20warrior&sig=8",
-    "credit": "Image via Unsplash (keyword: Terracotta Warrior)"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Terracotta_Army_in_Xian_2011_%288273517327%29.jpg",
+    "options": ["Terracotta Warrior", "Samurai Armor", "Roman Legionary", "Greek Hoplite"],
+    "fact": "Thousands of life-sized terracotta warriors were buried with China's first emperor to guard him in the afterlife."
   },
   {
     "name": "Native American Arrowhead",
-    "emoji": "\ud83c\udff9",
-    "backgroundColor": "#fef3c7",
-    "accentColor": "#92400e",
-    "options": [
-      "Native American Arrowhead",
-      "Stone Age Hand Axe",
-      "Aboriginal Boomerang",
-      "Bronze Spearhead"
-    ],
-    "fact": "Arrowheads made from stone or obsidian show where Indigenous peoples hunted and traded across North America.",
-    "image": "https://source.unsplash.com/featured/500x500/?native%20american%20arrowhead&sig=9",
-    "credit": "Image via Unsplash (keyword: Native American Arrowhead)"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Projectile_points.jpg",
+    "options": ["Native American Arrowhead", "Stone Age Hand Axe", "Aboriginal Boomerang", "Bronze Spearhead"],
+    "fact": "Arrowheads made from stone or obsidian show where Indigenous peoples hunted and traded across North America."
   },
   {
     "name": "Medieval Knight Helmet",
-    "emoji": "\ud83d\udee1\ufe0f",
-    "backgroundColor": "#e5e7eb",
-    "accentColor": "#1f2937",
-    "options": [
-      "Medieval Knight Helmet",
-      "Samurai Helmet",
-      "Roman Centurion Helmet",
-      "Viking Helmet"
-    ],
-    "fact": "This style of helmet, called a sallet, protected European knights during the late Middle Ages.",
-    "image": "https://source.unsplash.com/featured/500x500/?medieval%20knight%20helmet&sig=10",
-    "credit": "Image via Unsplash (keyword: Medieval Knight Helmet)"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Sallet_-_Italian_-_Walters_51581.jpg",
+    "options": ["Medieval Knight Helmet", "Samurai Helmet", "Roman Centurion Helmet", "Viking Helmet"],
+    "fact": "This style of helmet, called a sallet, protected European knights during the late Middle Ages."
   },
   {
     "name": "Benin Bronze Plaque",
-    "emoji": "\ud83d\uddbc\ufe0f",
-    "backgroundColor": "#f8fafc",
-    "accentColor": "#334155",
-    "options": [
-      "Benin Bronze Plaque",
-      "Greek Relief",
-      "Egyptian Wall Carving",
-      "Incan Gold Mask"
-    ],
-    "fact": "Benin bronzes from West Africa record the history of the Edo people and their royal court.",
-    "image": "https://source.unsplash.com/featured/500x500/?benin%20bronze%20plaque&sig=11",
-    "credit": "Image via Unsplash (keyword: Benin Bronze Plaque)"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Benin_Bronze.jpg",
+    "options": ["Benin Bronze Plaque", "Greek Relief", "Egyptian Wall Carving", "Incan Gold Mask"],
+    "fact": "Benin bronzes from West Africa record the history of the Edo people and their royal court."
   },
   {
     "name": "Egyptian Sarcophagus",
-    "emoji": "\u26b0\ufe0f",
-    "backgroundColor": "#fef2f2",
-    "accentColor": "#991b1b",
-    "options": [
-      "Egyptian Sarcophagus",
-      "Roman Coffin",
-      "Viking Longship",
-      "Minoan Fresco"
-    ],
-    "fact": "Decorated sarcophagi protected mummies and were painted with scenes to guide the dead through the afterlife.",
-    "image": "https://source.unsplash.com/featured/500x500/?egyptian%20sarcophagus&sig=12",
-    "credit": "Image via Unsplash (keyword: Egyptian Sarcophagus)"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Sarcophagus_of_the_Priestess_of_Amon.jpg",
+    "options": ["Egyptian Sarcophagus", "Roman Coffin", "Viking Longship", "Minoan Fresco"],
+    "fact": "Decorated sarcophagi protected mummies and were painted with scenes to guide the dead through the afterlife."
   },
   {
     "name": "Aztec Calendar Stone",
-    "emoji": "\ud83e\udded",
-    "backgroundColor": "#fef9c3",
-    "accentColor": "#b45309",
-    "options": [
-      "Aztec Calendar Stone",
-      "Mayan Stela",
-      "Roman Sundial",
-      "Persian Carpet"
-    ],
-    "fact": "The Aztec Sun Stone is carved with symbols showing how the Aztecs measured time and honored their gods.",
-    "image": "https://source.unsplash.com/featured/500x500/?aztec%20calendar%20stone&sig=13",
-    "credit": "Image via Unsplash (keyword: Aztec Calendar Stone)"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Aztec_Calendar_Stone.jpg",
+    "options": ["Aztec Calendar Stone", "Mayan Stela", "Roman Sundial", "Persian Carpet"],
+    "fact": "The Aztec Sun Stone is carved with symbols showing how the Aztecs measured time and honored their gods."
   },
   {
     "name": "Indus Valley Seal",
-    "emoji": "\ud83d\udc02",
-    "backgroundColor": "#e0f2f1",
-    "accentColor": "#065f46",
-    "options": [
-      "Indus Valley Seal",
-      "Mesopotamian Tablet",
-      "Chinese Stamp",
-      "Greek Coin"
-    ],
-    "fact": "Small seals from the Indus Valley have animals and symbols that may represent names or trade goods.",
-    "image": "https://source.unsplash.com/featured/500x500/?indus%20valley%20seal&sig=14",
-    "credit": "Image via Unsplash (keyword: Indus Valley Seal)"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Taurus-seal.jpg",
+    "options": ["Indus Valley Seal", "Mesopotamian Tablet", "Chinese Stamp", "Greek Coin"],
+    "fact": "Small seals from the Indus Valley have animals and symbols that may represent names or trade goods."
   },
   {
     "name": "Stone Age Hand Axe",
-    "emoji": "\ud83e\ude93",
-    "backgroundColor": "#fee4e2",
-    "accentColor": "#9a3412",
-    "options": [
-      "Stone Age Hand Axe",
-      "Roman Dagger",
-      "Viking Sword",
-      "Medieval Hammer"
-    ],
-    "fact": "Hand axes are some of the oldest tools humans made and were used for cutting meat, wood, and plants.",
-    "image": "https://source.unsplash.com/featured/500x500/?stone%20age%20hand%20axe&sig=15",
-    "credit": "Image via Unsplash (keyword: Stone Age Hand Axe)"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/4/47/Acheulean_handaxe.jpg",
+    "options": ["Stone Age Hand Axe", "Roman Dagger", "Viking Sword", "Medieval Hammer"],
+    "fact": "Hand axes are some of the oldest tools humans made and were used for cutting meat, wood, and plants."
   },
   {
     "name": "Babylonian Cylinder Seal",
-    "emoji": "\ud83c\udf00",
-    "backgroundColor": "#ede9fe",
-    "accentColor": "#4c1d95",
-    "options": [
-      "Babylonian Cylinder Seal",
-      "Egyptian Scarab",
-      "Roman Signet Ring",
-      "Chinese Ink Stick"
-    ],
-    "fact": "Cylinder seals were rolled over wet clay to leave a picture signature that marked ownership or told stories.",
-    "image": "https://source.unsplash.com/featured/500x500/?babylonian%20cylinder%20seal&sig=16",
-    "credit": "Image via Unsplash (keyword: Babylonian Cylinder Seal)"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Cylinder_seal_Akkadian.jpg",
+    "options": ["Babylonian Cylinder Seal", "Egyptian Scarab", "Roman Signet Ring", "Chinese Ink Stick"],
+    "fact": "Cylinder seals were rolled over wet clay to leave a picture signature that marked ownership or told stories."
   },
   {
     "name": "Celtic Torc",
-    "emoji": "\ud83d\udc8d",
-    "backgroundColor": "#fff7ed",
-    "accentColor": "#b45309",
-    "options": [
-      "Celtic Torc",
-      "Greek Necklace",
-      "Egyptian Collar",
-      "Benin Bronze Plaque"
-    ],
-    "fact": "A torc is a rigid neck ring worn by Celtic leaders to show status and skill in metalworking.",
-    "image": "https://source.unsplash.com/featured/500x500/?celtic%20torc&sig=17",
-    "credit": "Image via Unsplash (keyword: Celtic Torc)"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Great_Torc.jpg",
+    "options": ["Celtic Torc", "Greek Necklace", "Egyptian Collar", "Benin Bronze Plaque"],
+    "fact": "A torc is a rigid neck ring worn by Celtic leaders to show status and skill in metalworking."
   },
   {
     "name": "Samurai Armor",
-    "emoji": "\ud83e\udd77",
-    "backgroundColor": "#e0f2fe",
-    "accentColor": "#1d4ed8",
-    "options": [
-      "Samurai Armor",
-      "Roman Armor",
-      "Aztec Warrior Suit",
-      "Egyptian Ceremonial Dress"
-    ],
-    "fact": "Samurai armor from Japan used layers of metal and lacquered leather to balance protection and movement.",
-    "image": "https://source.unsplash.com/featured/500x500/?samurai%20armor&sig=18",
-    "credit": "Image via Unsplash (keyword: Samurai Armor)"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Samurai_armour.jpg",
+    "options": ["Samurai Armor", "Roman Armor", "Aztec Warrior Suit", "Egyptian Ceremonial Dress"],
+    "fact": "Samurai armor from Japan used layers of metal and lacquered leather to balance protection and movement."
   },
   {
     "name": "Aboriginal Boomerang",
-    "emoji": "\ud83e\ude83",
-    "backgroundColor": "#fef3c7",
-    "accentColor": "#b45309",
-    "options": [
-      "Aboriginal Boomerang",
-      "Stone Age Spear",
-      "Viking Axe",
-      "Mayan Throwing Stick"
-    ],
-    "fact": "Aboriginal Australian boomerangs were crafted for hunting, ceremony, and storytelling.",
-    "image": "https://source.unsplash.com/featured/500x500/?aboriginal%20boomerang&sig=19",
-    "credit": "Image via Unsplash (keyword: Aboriginal Boomerang)"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Aboriginal_boomerangs.jpg",
+    "options": ["Aboriginal Boomerang", "Stone Age Spear", "Viking Axe", "Mayan Throwing Stick"],
+    "fact": "Aboriginal Australian boomerangs were crafted for hunting, ceremony, and storytelling."
   },
   {
     "name": "Paleolithic Cave Painting",
-    "emoji": "\ud83d\udc03",
-    "backgroundColor": "#ede0d4",
-    "accentColor": "#7f5539",
-    "options": [
-      "Paleolithic Cave Painting",
-      "Roman Mosaic",
-      "Egyptian Hieroglyphs",
-      "Chinese Landscape Scroll"
-    ],
-    "fact": "Cave paintings like these bison from Altamira show how early humans observed animals and used natural pigments.",
-    "image": "https://source.unsplash.com/featured/500x500/?paleolithic%20cave%20painting&sig=20",
-    "credit": "Image via Unsplash (keyword: Paleolithic Cave Painting)"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/4/49/AltamiraBisons.jpg",
+    "options": ["Paleolithic Cave Painting", "Roman Mosaic", "Egyptian Hieroglyphs", "Chinese Landscape Scroll"],
+    "fact": "Cave paintings like these bison from Altamira show how early humans observed animals and used natural pigments."
   }
 ]
