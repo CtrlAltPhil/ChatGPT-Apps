@@ -49,13 +49,6 @@ h1 {
   box-shadow: 0 6px 16px rgba(0, 0, 0, 0.15);
 }
 
-.image-credit {
-  margin-top: -12px;
-  margin-bottom: 18px;
-  font-size: 0.85rem;
-  color: #7b6752;
-}
-
 #options {
   display: grid;
   gap: 12px;
