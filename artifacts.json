@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Roman Coin",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Denarius_of_Caesar_Augustus_%28obverse%29.jpg",
+    "options": ["Roman Coin", "Egyptian Amulet", "Greek Vase", "Mayan Mask"]
+  },
+  {
+    "name": "Egyptian Amulet",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Amulet_-_Egypt_-_Louvre_-_E13158.jpg",
+    "options": ["Aztec Figurine", "Egyptian Amulet", "Roman Helmet", "Chinese Coin"]
+  },
+  {
+    "name": "Greek Vase",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Amphora_PAN_III.jpg",
+    "options": ["Greek Vase", "Roman Lamp", "Incan Pottery", "Persian Bowl"]
+  }
+]
